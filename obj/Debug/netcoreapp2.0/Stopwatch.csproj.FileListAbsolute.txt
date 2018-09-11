@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/bin/Debug/netcoreapp2.0/Stopwatch.deps.json
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/bin/Debug/netcoreapp2.0/Stopwatch.runtimeconfig.json
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/bin/Debug/netcoreapp2.0/Stopwatch.runtimeconfig.dev.json
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/bin/Debug/netcoreapp2.0/Stopwatch.dll
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/bin/Debug/netcoreapp2.0/Stopwatch.pdb
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/obj/Debug/netcoreapp2.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/obj/Debug/netcoreapp2.0/Stopwatch.AssemblyInfo.cs
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/obj/Debug/netcoreapp2.0/Stopwatch.dll
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stopwatch/obj/Debug/netcoreapp2.0/Stopwatch.pdb
