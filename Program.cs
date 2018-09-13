@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Stopwatch
 {
@@ -6,7 +6,7 @@ namespace Stopwatch
     {
         DateTime startTime;
         DateTime stopTime;
-        DateTime duration;
+        TimeSpan duration;
         
         public void start()
         {
@@ -17,8 +17,13 @@ namespace Stopwatch
         {
             this.stopTime = DateTime.Now;
             this.duration = this.stopTime - this.startTime;
+        
             
         }        
+        public void printDuration()
+        {
+            Console.WriteLine(String.Format("Duraation {0} ", this.duration));
+        }
     }
     class Program
     {
@@ -36,6 +41,7 @@ namespace Stopwatch
                 }
             
             myWatch.stop();
+            myWatch.printDuration();
          
 
             
